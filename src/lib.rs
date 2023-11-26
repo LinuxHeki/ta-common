@@ -1,5 +1,3 @@
-#![feature(external_doc)]
-
 pub mod traits;
 pub mod helpers;
 mod ds;
